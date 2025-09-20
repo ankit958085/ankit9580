@@ -1,3 +1,4 @@
 # ankit9580
 This is my first Git Repository.
-Auther - Ankit Gupta.
+<br>
+Auther - Ankit Gupta (Allu Arjun Gupta)
